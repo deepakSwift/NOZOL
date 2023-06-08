@@ -1,0 +1,99 @@
+/*
+  Localizable.strings
+  NOZOL
+
+  Created by deepak Kumar on 27/08/20.
+  Copyright © 2020 Mukul Sharma. All rights reserved.
+*/
+
+/*============== KEYS FOR RUSSIAN ==================*/
+
+"RoomNoKey" = "Комната нет.";
+"OngoingServicesKey" = "Текущие услуги";
+"PastServicesKey" = "Прошлые услуги";
+"MyServicesKey" = "Мои услуги";
+"NotificationKey" = "Уведомление";
+"WeAreHereKey" = "Как мы можем тебе помочь ?";
+"FeelFreeKey" = "Мы всегда готовы вам помочь. Вы можете запросить все, что пожелаете, чтобы ваш визит был идеальным.";
+"CategoryKey" = "Категория";
+"ProceedKey" = "Продолжить";
+"PriceKey" = "Цена:";
+"QuantityKey" = "Количество:";
+"OngoingKey" = "На постоянной основе";
+"CompletedKey" = "Завершено";
+
+"PersonalDataKey" = "2. Я даю согласие на передачу моих персональных данных в этом контексте иностранным деловым партнерам и компаниям группы.";
+"DietoryKey" = "1. Сообщите нам, если у вас есть какие-либо диетические предпочтения или аллергия.";
+"CampaignKey" = "3. Я хочу получать информацию о специальных кампаниях и мероприятиях.";
+"EmailKey" = "Эл. адрес";
+"PhoneCallsSMSKey" = "Телефонные звонки / SMS";
+"YesKey" = "да";
+"NoKey" = "Нет";
+"UploadSignKey" = "Загрузите свою подпись";
+"CheckinTitelekey" = "Проверить форму";
+"AddMoreGuestKey" = "+ Добавить еще гостя";
+"SubmitKey" = "ОТПРАВИТЬ";
+"FirstNameKey" = "Имя";
+"LastNameKey" = "Фамилия";
+"CheckinKey" = "Регистрироваться";
+"CheckoutKey" = "Проверять, выписываться";
+"EmailKey" = "Эл. адрес";
+"MobileKey" = "Мобильный";
+"HomePhoneKey" = "Домашний телефон";
+"CarPlatenoKey" = "Автомобиль Табличка №";
+"DateofbirthKey" = "Дата рождения";
+"IDTypeKey" = "Тип ID";
+"IDNumberKey" = "Идентификационный номер";
+"FullAddressKey" = "Полный адрес";
+"AccorLiveLimitessKey" = "Accor Live без ограничений";
+"AccompanyingGuestNameKey" = "Сопровождающее имя гостя";
+"IDTypeKey" = "Тип ID";
+"IDNumberKey" = "Идентификационный номер";
+
+"SaveKey" = "Сохранить";
+"CancelKey" = "Отмена";
+"SignatureTitleKey" = "Цифровой подписи";
+"ClearKey" = "Очистить";
+
+"CheckinKeys" = "Регистрироваться";
+"RoomSuitsKey" = "Комнаты и костюмы";
+"LoyalityOffersKey" = "Лояльность и предложения";
+"CheckoutKeys" = "Проверять, выписываться";
+"BookDiscountKey" = "Забронируйте снова со скидкой";
+"HotelMapKey" = "Карта отеля";
+"ChangePasswordKey" = "Сменить пароль";
+"ChangeLanguageKey" = "Изменить язык";
+"SignOutKey" = "выход";
+
+"RateYourExperienceKey" = "Оцените свой опыт";
+"CleaninessKey" = "Чистота";
+"WifiKey" = "вай-фай";
+"LocationKey" = "Расположение";
+"RoomServiceKey" = "Обслуживание номеров";
+"ComfortKey" = "Комфорт";
+"StaffKey" = "Штат сотрудников";
+"CommentsKey" = "Комментарии";
+"WriteCommentKey" = "Напишите свой комментарий ...";
+
+"CongratsKey" = "Поздравляю! вы получите 10% скидку при следующем бронировании";
+"NumberofRoomRequiredKey" = "Количество требуемых комнат";
+"NumberofAdultKey" = "Количество взрослых";
+"NumberofChildKey" = "Количество детей";
+"StayingAtKey" = "Пребывание в";
+"SupportChatKey" = "Чат поддержки";
+
+"PaidKey" = "Платный";
+"UnpaidKey" = "Неоплаченный";
+
+"FamilyNameKey" = "Фамилия";
+"HowdidYoubooKey" = "Как ты заказал";
+"NameofTravelAgentKey" = "Имя турагента";
+"NameofyourWebsiteKey" = "Название вашего сайта";
+"JobKey" = "Работа";
+"WifeNameKey" = "Имя жены";
+"NumberofAdultsKeys" = "Кол-во взрослых";
+"NumberofRoomsRequiredKey" = "Необходимое количество комнат";
+"NumberofGuestKey" = "Количество гостей";
+"PaymentMethodKey" = "Способ оплаты";
+"SelectYouridproofKey" = "Выберите свое удостоверение личности";
+"UploadyouridProofKey" = "Загрузите свое удостоверение личности";

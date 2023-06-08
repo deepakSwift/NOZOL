@@ -1,0 +1,6 @@
+framework module Pods_NOZOLTests {
+  umbrella header "Pods-NOZOLTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

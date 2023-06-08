@@ -1,0 +1,100 @@
+/* 
+  Localizable.strings
+  NOZOL
+
+  Created by deepak Kumar on 27/08/20.
+  Copyright © 2020 Mukul Sharma. All rights reserved.
+*/
+
+/*============== KEYS FOR ENGLISH ==================*/
+
+"RoomNoKey" = "Room No.";
+"OngoingServicesKey" = "Ongoing Services";
+"PastServicesKey" = "Past Services";
+"MyServicesKey" = "My Services";
+"NotificationKey" = "Notification";
+"WeAreHereKey" = "How can we help you ?";
+"FeelFreeKey" = "We are always ready to help you. You can request whatever you wish to make your visit perfect.";
+"CategoryKey" = "Category";
+"ProceedKey" = "Proceed";
+"PriceKey" = "Price:";
+"QuantityKey" = "Quantity :";
+"OngoingKey" = "Ongoing";
+"CompletedKey" = "Completed";
+
+"PersonalDataKey" = "2. I consent to the sharing of my personal data in this context with foreign business partners and group companies";
+"DietoryKey" = "1. Please let us know if you have any dietory requirements or allergies";
+"CampaignKey" = "3. I would like to be informed about special campaigns and activities";
+"EmailKey" = "Email";
+"PhoneCallsSMSKey" = "Phone calls/ SMS";
+"YesKey" = "Yes";
+"NoKey" = "No";
+"UploadSignKey" = "Upload your Signature";
+"CheckinTitelekey" = "Check In Form";
+"AddMoreGuestKey" = "+ Add More Guest";
+"SubmitKey" = "SUBMIT";
+"FirstNameKey" = "First Name";
+"LastNameKey" = "Last Name";
+"CheckinKey" = "Check in";
+"CheckoutKey" = "Check out";
+"EmailKey" = "Email";
+"MobileKey" = "Mobile";
+"HomePhoneKey" = "Home Phone";
+"CarPlatenoKey" = "Car Plate no.";
+"DateofbirthKey" = "Date of birth";
+"IDTypeKey" = "ID Type";
+"IDNumberKey" = "ID Number";
+"FullAddressKey" = "Full Address";
+"AccorLiveLimitessKey" = "Accor Live Limitess";
+"AccompanyingGuestNameKey" = "Accompanying Guest Name";
+"IDTypeKey" = "ID Type";
+"IDNumberKey" = "ID Number";
+
+"SaveKey" = "Save";
+"CancelKey" = "Cancel";
+"SignatureTitleKey" = "Digital Signature";
+"ClearKey" = "Clear";
+
+"CheckinKeys" = "Check in";
+"RoomSuitsKey" = "Room & suits";
+"LoyalityOffersKey" = "Loyality and Offers";
+"CheckoutKeys" = "Checkout";
+"BookDiscountKey" = "Book again on discount";
+"HotelMapKey" = "Hotel Map";
+"ChangePasswordKey" = "Change Password";
+"ChangeLanguageKey" = "Change Language";
+"SignOutKey" = "Sign out";
+
+"RateYourExperienceKey" = "Rate your experience";
+"CleaninessKey" = "Cleaniness";
+"WifiKey" = "Wifi";
+"LocationKey" = "Location";
+"RoomServiceKey" = "Room Service";
+"ComfortKey" = "Comfort";
+"StaffKey" = "Staff";
+"CommentsKey" = "Comments";
+"WriteCommentKey" = "Write your comment...";
+
+"CongratsKey" = "Congrats! you will get 10% off on next booking";
+"NumberofRoomRequiredKey" = "Number of room required";
+"NumberofAdultKey" = "Number of Adult";
+"NumberofChildKey" = "Number of child";
+"StayingAtKey" = "Staying at";
+"SupportChatKey" = "Support Chat";
+
+"PaidKey" = "Paid";
+"UnpaidKey" = "Unpaid";
+
+"FamilyNameKey" = "Family name";
+"HowdidYoubooKey" = "How did you book";
+"NameofTravelAgentKey" = "Name of Travel Agent";
+"NameofyourWebsiteKey" = "Name of your website";
+"JobKey" = "Job";
+"WifeNameKey" = "Wife name";
+"NumberofAdultsKeys" = "Number of Adults";
+"NumberofRoomsRequiredKey" = "Number of Rooms required";
+"NumberofGuestKey" = "Number of guest";
+"PaymentMethodKey" = "Payment method";
+"SelectYouridproofKey" = "Select your id proof";
+"UploadyouridProofKey" = "Upload your id proof";
+

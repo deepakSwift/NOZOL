@@ -1,0 +1,414 @@
+
+/* Class = "UILabel"; text = "Hotel Map"; ObjectID = "06r-HS-ZAf"; */
+"06r-HS-ZAf.text" = "Hotel Map";
+
+/* Class = "UILabel"; text = "3 min"; ObjectID = "0LX-VN-Q6D"; */
+"0LX-VN-Q6D.text" = "3 min";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat"; ObjectID = "0Vw-7S-cgO"; */
+"0Vw-7S-cgO.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "0lX-5W-Krh"; */
+"0lX-5W-Krh.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "We are always ready to help you. You \ncan request whatever you wish to make \nyour visit perfect."; ObjectID = "1zH-G1-K2U"; */
+"1zH-G1-K2U.text" = "We are always ready to help you. You \ncan request whatever you wish to make \nyour visit perfect.";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "2Tn-ZS-lgb"; */
+"2Tn-ZS-lgb.placeholder" = "Confirm Password";
+
+/* Class = "UIButton"; normalTitle = "UPDATE PROFILE"; ObjectID = "2hL-Ho-7xk"; */
+"2hL-Ho-7xk.normalTitle" = "UPDATE PROFILE";
+
+/* Class = "UILabel"; text = "Dry Clean"; ObjectID = "31i-qN-XH8"; */
+"31i-qN-XH8.text" = "Dry Clean";
+
+/* Class = "UILabel"; text = "Nozol Hotels"; ObjectID = "31t-1R-yh8"; */
+"31t-1R-yh8.text" = "Nozol Hotels";
+
+/* Class = "UITextField"; placeholder = "Job"; ObjectID = "34N-qI-PYE"; */
+"34N-qI-PYE.placeholder" = "Job";
+
+/* Class = "UITextField"; placeholder = "Departure Date"; ObjectID = "3Dh-mf-lgN"; */
+"3Dh-mf-lgN.placeholder" = "Departure Date";
+
+/* Class = "UITextField"; placeholder = "Number of guest"; ObjectID = "4AC-uz-jo5"; */
+"4AC-uz-jo5.placeholder" = "Number of guest";
+
+/* Class = "UITextField"; placeholder = "Number of Rooms required"; ObjectID = "4C6-NY-Fhu"; */
+"4C6-NY-Fhu.placeholder" = "Number of Rooms required";
+
+/* Class = "UITextField"; placeholder = "Date of birth"; ObjectID = "5hz-Bu-FDr"; */
+"5hz-Bu-FDr.placeholder" = "Date of birth";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "5sD-B8-5FL"; */
+"5sD-B8-5FL.title" = "Account";
+
+/* Class = "UITextField"; placeholder = "Check in"; ObjectID = "6QE-GR-8Xv"; */
+"6QE-GR-8Xv.placeholder" = "Check in";
+
+/* Class = "UIButton"; normalTitle = "Past services"; ObjectID = "70L-wf-kKL"; */
+"70L-wf-kKL.normalTitle" = "Past services";
+
+/* Class = "UITextField"; placeholder = "Check out"; ObjectID = "7Da-m5-eyS"; */
+"7Da-m5-eyS.placeholder" = "Check out";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "7kW-sM-byr"; */
+"7kW-sM-byr.text" = "4";
+
+/* Class = "UILabel"; text = "Ongoing"; ObjectID = "7nq-De-uce"; */
+"7nq-De-uce.text" = "Ongoing";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "84Q-M4-2bH"; */
+"84Q-M4-2bH.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "86U-mB-Jvu"; */
+"86U-mB-Jvu.normalTitle" = "SKIP";
+
+/* Class = "UILabel"; text = "$ 7.4"; ObjectID = "89V-G9-fsA"; */
+"89V-G9-fsA.text" = "$ 7.4";
+
+/* Class = "UILabel"; text = "Mukul sharma"; ObjectID = "8GP-nB-nBZ"; */
+"8GP-nB-nBZ.text" = "Mukul sharma";
+
+/* Class = "UILabel"; text = "kids setting"; ObjectID = "8g8-nG-ayT"; */
+"8g8-nG-ayT.text" = "kids setting";
+
+/* Class = "UILabel"; text = "Upload your Signature"; ObjectID = "8kK-pF-Hf7"; */
+"8kK-pF-Hf7.text" = "Upload your Signature";
+
+/* Class = "UITextField"; placeholder = "Number of room required"; ObjectID = "8xi-Et-Keo"; */
+"8xi-Et-Keo.placeholder" = "Number of room required";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "96V-Hj-Dp0"; */
+"96V-Hj-Dp0.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Payment method"; ObjectID = "CvE-O3-YWa"; */
+"CvE-O3-YWa.placeholder" = "Payment method";
+
+/* Class = "UILabel"; text = "Nozol Hotels"; ObjectID = "CyP-gh-ha5"; */
+"CyP-gh-ha5.text" = "Nozol Hotels";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat"; ObjectID = "EA4-kh-iwY"; */
+"EA4-kh-iwY.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat";
+
+/* Class = "UITextField"; placeholder = "Number of room required"; ObjectID = "EDh-Ro-Irn"; */
+"EDh-Ro-Irn.placeholder" = "Number of room required";
+
+/* Class = "UILabel"; text = "MensOutFits"; ObjectID = "EPn-wd-fiJ"; */
+"EPn-wd-fiJ.text" = "MensOutFits";
+
+/* Class = "UILabel"; text = "kids setting"; ObjectID = "Ebe-H5-eBa"; */
+"Ebe-H5-eBa.text" = "kids setting";
+
+/* Class = "UILabel"; text = "Russian"; ObjectID = "EnX-bU-hLj"; */
+"EnX-bU-hLj.text" = "Russian";
+
+/* Class = "UILabel"; text = "$ 7.4"; ObjectID = "Fma-iD-zZv"; */
+"Fma-iD-zZv.text" = "$ 7.4";
+
+/* Class = "UILabel"; text = "$ 7.4"; ObjectID = "GUt-Ob-BdK"; */
+"GUt-Ob-BdK.text" = "$ 7.4";
+
+/* Class = "UILabel"; text = "Loyality and Offers"; ObjectID = "Gkd-kG-2Ez"; */
+"Gkd-kG-2Ez.text" = "Loyality and Offers";
+
+/* Class = "UITextField"; placeholder = "Number of  Adult"; ObjectID = "HaN-g0-eft"; */
+"HaN-g0-eft.placeholder" = "Number of  Adult";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "Hpt-4d-JGp"; */
+"Hpt-4d-JGp.text" = "Notification";
+
+/* Class = "UIButton"; normalTitle = "Ongoing Services"; ObjectID = "InV-t8-3hl"; */
+"InV-t8-3hl.normalTitle" = "Ongoing Services";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "IuW-KX-427"; */
+"IuW-KX-427.text" = "Comments";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "JSS-uP-9Uf"; */
+"JSS-uP-9Uf.placeholder" = "Phone Number";
+
+/* Class = "UITextField"; placeholder = "Number of child"; ObjectID = "JeR-Wv-PfT"; */
+"JeR-Wv-PfT.placeholder" = "Number of child";
+
+/* Class = "UITextField"; placeholder = "Full address"; ObjectID = "Juc-YX-unH"; */
+"Juc-YX-unH.placeholder" = "Full address";
+
+/* Class = "UILabel"; text = "Congrats! you will get 10% off on next booking"; ObjectID = "JzG-KH-0ja"; */
+"JzG-KH-0ja.text" = "Congrats! you will get 10% off on next booking";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "KWX-SD-9m8"; */
+"KWX-SD-9m8.text" = "English";
+
+/* Class = "UIButton"; normalTitle = "Paid"; ObjectID = "LGx-rh-L8R"; */
+"LGx-rh-L8R.normalTitle" = "Paid";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "LZT-HA-m3M"; */
+"LZT-HA-m3M.text" = "Location";
+
+/* Class = "UILabel"; text = "Quantity :"; ObjectID = "LcX-kN-O2B"; */
+"LcX-kN-O2B.text" = "Quantity :";
+
+/* Class = "UITextField"; placeholder = "Old Password"; ObjectID = "Mg4-Fh-zxc"; */
+"Mg4-Fh-zxc.placeholder" = "Old Password";
+
+/* Class = "UILabel"; text = "From NOZOL"; ObjectID = "O3a-am-Xde"; */
+"O3a-am-Xde.text" = "From NOZOL";
+
+/* Class = "UIButton"; normalTitle = "CHANGE PASSWORD"; ObjectID = "O52-Ze-vjy"; */
+"O52-Ze-vjy.normalTitle" = "CHANGE PASSWORD";
+
+/* Class = "UILabel"; text = "wifi"; ObjectID = "OLB-K2-ayP"; */
+"OLB-K2-ayP.text" = "wifi";
+
+/* Class = "UILabel"; text = "Check in"; ObjectID = "PVu-5A-K9B"; */
+"PVu-5A-K9B.text" = "Check in";
+
+/* Class = "UILabel"; text = "Digital Signature"; ObjectID = "Q4A-G7-3IV"; */
+"Q4A-G7-3IV.text" = "Digital Signature";
+
+/* Class = "UITextField"; placeholder = "Number of child"; ObjectID = "QLw-K2-ugm"; */
+"QLw-K2-ugm.placeholder" = "Number of child";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "QM1-7J-IAp"; */
+"QM1-7J-IAp.normalTitle" = "Clear";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "Qfc-Kb-C9Y"; */
+"Qfc-Kb-C9Y.text" = "Profile";
+
+/* Class = "UILabel"; text = "Wait until you get Approval"; ObjectID = "RN6-TA-KfD"; */
+"RN6-TA-KfD.text" = "Wait until you get Approval";
+
+/* Class = "UITabBarItem"; title = "MYSer"; ObjectID = "SVL-bR-2fJ"; */
+"SVL-bR-2fJ.title" = "MYSer";
+
+/* Class = "UILabel"; text = "Quantity :"; ObjectID = "Sop-Iv-JX2"; */
+"Sop-Iv-JX2.text" = "Quantity :";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "Sqm-UC-Xxz"; */
+"Sqm-UC-Xxz.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "T86-Qe-PZP"; */
+"T86-Qe-PZP.text" = "Category";
+
+/* Class = "UITextField"; placeholder = "Check out Date"; ObjectID = "TlX-Hc-1gp"; */
+"TlX-Hc-1gp.placeholder" = "Check out Date";
+
+/* Class = "UILabel"; text = "Book Again"; ObjectID = "U5z-C5-0k8"; */
+"U5z-C5-0k8.text" = "Book Again";
+
+/* Class = "UITextField"; placeholder = "Name of Travel Agent"; ObjectID = "Usn-V6-plO"; */
+"Usn-V6-plO.placeholder" = "Name of Travel Agent";
+
+/* Class = "UILabel"; text = "hotel"; ObjectID = "V5c-vQ-Kdw"; */
+"V5c-vQ-Kdw.text" = "hotel";
+
+/* Class = "UILabel"; text = "Shirt Dryclean"; ObjectID = "Vgx-E7-UqN"; */
+"Vgx-E7-UqN.text" = "Shirt Dryclean";
+
+/* Class = "UIButton"; normalTitle = "Check in"; ObjectID = "WVF-bi-OuE"; */
+"WVF-bi-OuE.normalTitle" = "Check in";
+
+/* Class = "UILabel"; text = "My Services"; ObjectID = "WuR-Si-ul9"; */
+"WuR-Si-ul9.text" = "My Services";
+
+/* Class = "UITextField"; placeholder = "Number of childern"; ObjectID = "Xga-AW-PTt"; */
+"Xga-AW-PTt.placeholder" = "Number of childern";
+
+/* Class = "UILabel"; text = "hotel"; ObjectID = "Xo3-3H-bRI"; */
+"Xo3-3H-bRI.text" = "hotel";
+
+/* Class = "UILabel"; text = "(IN) +91"; ObjectID = "XoH-DO-ESe"; */
+"XoH-DO-ESe.text" = "(IN) +91";
+
+/* Class = "UILabel"; text = "Staff"; ObjectID = "Xqa-JK-x1q"; */
+"Xqa-JK-x1q.text" = "Staff";
+
+/* Class = "UITextField"; placeholder = "Family name"; ObjectID = "Xsn-wt-CK6"; */
+"Xsn-wt-CK6.placeholder" = "Family name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YFN-yj-vga"; */
+"YFN-yj-vga.text" = "Label";
+
+/* Class = "UILabel"; text = "Mens Outfits"; ObjectID = "YLc-1A-BS9"; */
+"YLc-1A-BS9.text" = "Mens Outfits";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "YMl-Q8-Upq"; */
+"YMl-Q8-Upq.title" = "Item";
+
+/* Class = "UILabel"; text = "Quantity :"; ObjectID = "Yb0-YV-e3X"; */
+"Yb0-YV-e3X.text" = "Quantity :";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "YeK-FL-pUa"; */
+"YeK-FL-pUa.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "YtT-6w-RoQ"; */
+"YtT-6w-RoQ.normalTitle" = "SUBMIT";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "Zbc-80-TzZ"; */
+"Zbc-80-TzZ.placeholder" = "First name";
+
+/* Class = "UILabel"; text = "Room Service"; ObjectID = "a5X-Lw-IJi"; */
+"a5X-Lw-IJi.text" = "Room Service";
+
+/* Class = "UILabel"; text = "Hotel info"; ObjectID = "a8Z-Cf-Egw"; */
+"a8Z-Cf-Egw.text" = "Hotel info";
+
+/* Class = "UILabel"; text = "Price :"; ObjectID = "aJm-Ad-qAi"; */
+"aJm-Ad-qAi.text" = "Price :";
+
+/* Class = "UILabel"; text = "Media"; ObjectID = "b4x-SK-QNJ"; */
+"b4x-SK-QNJ.text" = "Media";
+
+/* Class = "UITabBarItem"; title = "Notification"; ObjectID = "b5J-Iv-RXH"; */
+"b5J-Iv-RXH.title" = "Notification";
+
+/* Class = "UILabel"; text = "Check In Form"; ObjectID = "b6D-3C-4aB"; */
+"b6D-3C-4aB.text" = "Check In Form";
+
+/* Class = "UILabel"; text = "Comfort"; ObjectID = "bTj-gE-gEB"; */
+"bTj-gE-gEB.text" = "Comfort";
+
+/* Class = "UILabel"; text = "Price :"; ObjectID = "bjB-SF-vqW"; */
+"bjB-SF-vqW.text" = "Price :";
+
+/* Class = "UILabel"; text = "Change Language"; ObjectID = "bll-PS-C5E"; */
+"bll-PS-C5E.text" = "Change Language";
+
+/* Class = "UITextField"; placeholder = "Check in Date"; ObjectID = "bsm-Rx-7gf"; */
+"bsm-Rx-7gf.placeholder" = "Check in Date";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "cX9-Xv-tuu"; */
+"cX9-Xv-tuu.text" = "4";
+
+/* Class = "UILabel"; text = "Check Out"; ObjectID = "cZj-wd-ywH"; */
+"cZj-wd-ywH.text" = "Check Out";
+
+/* Class = "UILabel"; text = "Price :"; ObjectID = "dhB-IF-3Aj"; */
+"dhB-IF-3Aj.text" = "Price :";
+
+/* Class = "UINavigationItem"; title = "My Booking"; ObjectID = "eci-BA-Ind"; */
+"eci-BA-Ind.title" = "My Booking";
+
+/* Class = "UILabel"; text = "heading"; ObjectID = "fnR-h8-tBC"; */
+"fnR-h8-tBC.text" = "heading";
+
+/* Class = "UILabel"; text = "Quantity :"; ObjectID = "g9T-SS-2IH"; */
+"g9T-SS-2IH.text" = "Quantity :";
+
+/* Class = "UILabel"; text = "Book Again"; ObjectID = "gsY-qr-hKt"; */
+"gsY-qr-hKt.text" = "Book Again";
+
+/* Class = "UILabel"; text = "Upload your id proof"; ObjectID = "h2r-px-Ihq"; */
+"h2r-px-Ihq.text" = "Upload your id proof";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "iiX-An-WW9"; */
+"iiX-An-WW9.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "How did you book"; ObjectID = "izr-Tb-w7k"; */
+"izr-Tb-w7k.placeholder" = "How did you book";
+
+/* Class = "UILabel"; text = "Add"; ObjectID = "j3h-tX-GWW"; */
+"j3h-tX-GWW.text" = "Add";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "jBS-1D-gjw"; */
+"jBS-1D-gjw.text" = "Change Password";
+
+/* Class = "UILabel"; text = "Shirt Dryclean"; ObjectID = "jL5-cp-SmN"; */
+"jL5-cp-SmN.text" = "Shirt Dryclean";
+
+/* Class = "UIButton"; normalTitle = "PROCEED"; ObjectID = "kPW-Nz-H2O"; */
+"kPW-Nz-H2O.normalTitle" = "PROCEED";
+
+/* Class = "UILabel"; text = "Shirt Dryclean"; ObjectID = "ksM-tX-bgl"; */
+"ksM-tX-bgl.text" = "Shirt Dryclean";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "liq-Yc-Ljh"; */
+"liq-Yc-Ljh.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "muJ-My-Mrh"; */
+"muJ-My-Mrh.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat"; ObjectID = "nXT-U9-Mz4"; */
+"nXT-U9-Mz4.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is a dummy text. And its not be real for an instance of time"; ObjectID = "oBg-nH-Y5g"; */
+"oBg-nH-Y5g.text" = "Lorem Ipsum is a dummy text. And its not be real for an instance of time";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "oNb-ND-pZr"; */
+"oNb-ND-pZr.placeholder" = "New Password";
+
+/* Class = "UILabel"; text = "Cleaniness"; ObjectID = "oxA-EY-m9E"; */
+"oxA-EY-m9E.text" = "Cleaniness";
+
+/* Class = "UITextField"; placeholder = "Wife name"; ObjectID = "pM7-xT-Q0p"; */
+"pM7-xT-Q0p.placeholder" = "Wife name";
+
+/* Class = "UITextField"; placeholder = "Select your id proof"; ObjectID = "pyC-nS-NT4"; */
+"pyC-nS-NT4.placeholder" = "Select your id proof";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat"; ObjectID = "r9b-Vc-FVH"; */
+"r9b-Vc-FVH.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat\nmagna aliqua. Bibendum est ultricies integer quis. Iaculis urna id volutpat";
+
+/* Class = "UILabel"; text = "Its three star Hotel."; ObjectID = "rqc-no-SVg"; */
+"rqc-no-SVg.text" = "Its three star Hotel.";
+
+/* Class = "UILabel"; text = "Quantity :"; ObjectID = "rwd-Sv-wIb"; */
+"rwd-Sv-wIb.text" = "Quantity :";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "sZJ-Fo-e3t"; */
+"sZJ-Fo-e3t.text" = "Completed";
+
+/* Class = "UILabel"; text = "Staying at"; ObjectID = "t0v-vR-nFG"; */
+"t0v-vR-nFG.text" = "Staying at";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tsb-PO-V8F"; */
+"tsb-PO-V8F.text" = "Label";
+
+/* Class = "UILabel"; text = "Rate your experience"; ObjectID = "u47-6t-lrI"; */
+"u47-6t-lrI.text" = "Rate your experience";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy."; ObjectID = "uIA-Ay-Cwt"; */
+"uIA-Ay-Cwt.text" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy.";
+
+/* Class = "UILabel"; text = "Staying at"; ObjectID = "uNS-RY-0DG"; */
+"uNS-RY-0DG.text" = "Staying at";
+
+/* Class = "UINavigationItem"; title = "My Booking"; ObjectID = "ujD-ns-aWI"; */
+"ujD-ns-aWI.title" = "My Booking";
+
+/* Class = "UITextField"; placeholder = "Number of  Adult"; ObjectID = "vLO-oj-v4j"; */
+"vLO-oj-v4j.placeholder" = "Number of  Adult";
+
+/* Class = "UITextField"; placeholder = "Name of your website"; ObjectID = "w98-QT-k7Z"; */
+"w98-QT-k7Z.placeholder" = "Name of your website";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "wDN-s5-Mg1"; */
+"wDN-s5-Mg1.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "wrs-yl-gmP"; */
+"wrs-yl-gmP.normalTitle" = "SUBMIT";
+
+/* Class = "UITextField"; placeholder = "Return Date"; ObjectID = "yH7-AC-wPn"; */
+"yH7-AC-wPn.placeholder" = "Return Date";
+
+/* Class = "UILabel"; text = "Arabic"; ObjectID = "yPF-st-qBc"; */
+"yPF-st-qBc.text" = "Arabic";
+
+/* Class = "UIButton"; normalTitle = "Unpaid"; ObjectID = "yYu-xb-7AE"; */
+"yYu-xb-7AE.normalTitle" = "Unpaid";
+
+/* Class = "UILabel"; text = "bsacetmukul1995@gmail.com"; ObjectID = "ydn-p1-y0F"; */
+"ydn-p1-y0F.text" = "bsacetmukul1995@gmail.com";
+
+/* Class = "UILabel"; text = "How can we help you ?"; ObjectID = "yiK-by-n2U"; */
+"yiK-by-n2U.text" = "How can we help you ?";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "z39-U9-WV9"; */
+"z39-U9-WV9.normalTitle" = "X";
+
+/* Class = "UITextField"; placeholder = "Number of Adults"; ObjectID = "zN3-h1-mU7"; */
+"zN3-h1-mU7.placeholder" = "Number of Adults";
+
+/* Class = "UILabel"; text = "Password Changed\nSuccessfully"; ObjectID = "ztv-GQ-wun"; */
+"ztv-GQ-wun.text" = "Password Changed\nSuccessfully";

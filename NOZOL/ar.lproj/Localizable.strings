@@ -1,0 +1,99 @@
+/*
+  Localizable.strings
+  NOZOL
+
+  Created by deepak Kumar on 27/08/20.
+  Copyright © 2020 Mukul Sharma. All rights reserved.
+*/
+
+/*============== KEYS FOR ARABIC ==================*/
+
+"RoomNoKey" = "رقم الغرفة";
+"OngoingServicesKey" = "الخدمات الجارية";
+"PastServicesKey" = "الخدمات السابقة";
+"MyServicesKey" = "خدماتي";
+"NotificationKey" = "تنبيه";
+"WeAreHereKey" = "كيف يمكننا مساعدتك ؟";
+"FeelFreeKey" = "نحن مستعدون لمساعدتك دائما. يمكنك طلب ما ترغب فيه لجعل زيارتك مثالية.";
+"CategoryKey" = "الفئة";
+"ProceedKey" = "تقدم";
+"PriceKey" = "السعر:";
+"QuantityKey" = "كمية:";
+"OngoingKey" = "جاري التنفيذ";
+"CompletedKey" = "منجز";
+
+"PersonalDataKey" = "2. أوافق على مشاركة بياناتي الشخصية في هذا السياق مع شركاء الأعمال الأجانب وشركات المجموعة";
+"DietoryKey" = "1. يرجى إعلامنا إذا كان لديك أي متطلبات غذائية أو حساسية";
+"CampaignKey" = "3. أود أن أحصل على معلومات عن الحملات والأنشطة الخاصة";
+"EmailKey" = "البريد الإلكتروني";
+"PhoneCallsSMSKey" = "المكالمات الهاتفية / الرسائل القصيرة";
+"YesKey" = "نعم";
+"NoKey" = "لا";
+"UploadSignKey" = "قم بتحميل التوقيع الخاص بك";
+"CheckinTitelekey" = "إيداع في النموذج";
+"AddMoreGuestKey" = "+ إضافة المزيد من الضيوف";
+"SubmitKey" = "إرسال";
+"FirstNameKey" = "الاسم الاول";
+"LastNameKey" = "الكنية";
+"CheckinKey" = "تحقق في";
+"CheckoutKey" = "الدفع";
+"EmailKey" = "البريد الإلكتروني";
+"MobileKey" = "التليفون المحمول";
+"HomePhoneKey" = "هاتف المنزل";
+"CarPlatenoKey" = "رقم لوحة السيارة.";
+"DateofbirthKey" = "تاريخ الولادة";
+"IDTypeKey" = "نوع الهوية";
+"IDNumberKey" = "رقم الهوية";
+"FullAddressKey" = "العنوان الكامل";
+"AccorLiveLimitessKey" = "أكور لايف ليميتيس";
+"AccompanyingGuestNameKey" = "اسم الضيف المصاحب";
+"IDTypeKey" = "نوع الهوية";
+"IDNumberKey" = "رقم الهوية";
+
+"SaveKey" = "حفظ";
+"CancelKey" = "إلغاء";
+"SignatureTitleKey" = "توقيع إلكتروني";
+"ClearKey" = "واضح";
+
+"CheckinKeys" = "تحقق في";
+"RoomSuitsKey" = "الغرفة والبدلات";
+"LoyalityOffersKey" = "الولاء والعروض";
+"CheckoutKeys" = "الدفع";
+"BookDiscountKey" = "احجز مرة أخرى على الخصم";
+"HotelMapKey" = "خريطة الفندق";
+"ChangePasswordKey" = "غير كلمة السر";
+"ChangeLanguageKey" = "تغيير اللغة";
+"SignOutKey" = "خروج";
+
+"RateYourExperienceKey" = "قيم تجربتك";
+"CleaninessKey" = "النظافة";
+"WifiKey" = "واي فاي";
+"LocationKey" = "موقعك";
+"RoomServiceKey" = "خدمة الغرف";
+"ComfortKey" = "راحة";
+"StaffKey" = "العاملين";
+"CommentsKey" = "تعليقات";
+"WriteCommentKey" = "اكتب تعليقك ...";
+
+"CongratsKey" = "مبروك! سوف تحصل على خصم 10٪ على الحجز القادم";
+"NumberofRoomRequiredKey" = "عدد الغرف المطلوبة";
+"NumberofAdultKey" = "عدد البالغين";
+"NumberofChildKey" = "عدد الاطفال";
+"StayingAtKey" = "المكوث في";
+"SupportChatKey" = "دعم الدردشة";
+
+"PaidKey" = "دفع";
+"UnpaidKey" = "غير مدفوعة";
+
+"FamilyNameKey" = "اسم العائلة";
+"HowdidYoubooKey" = "كيف حجزت";
+"NameofTravelAgentKey" = "اسم وكيل السفر";
+"NameofyourWebsiteKey" = "اسم موقع الويب الخاص بك";
+"JobKey" = "مهنة";
+"WifeNameKey" = "اسم الزوجة";
+"NumberofAdultsKeys" = "عدد البالغين";
+"NumberofRoomsRequiredKey" = "عدد الغرف المطلوبة";
+"NumberofGuestKey" = "عدد الحضور";
+"PaymentMethodKey" = "عدد طرق الدفع";
+"SelectYouridproofKey" = "حدد إثبات الهوية الخاص بك";
+"UploadyouridProofKey" = "قم بتحميل إثبات الهوية الخاص بك";
